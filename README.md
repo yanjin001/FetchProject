@@ -22,6 +22,11 @@ To install and run FetchProject, follow these steps:
    
    ```bash
    python main.py
+   
+4. **Optional: You can replace sample_input.yaml with your own input file by modifying:**
+   
+   ```bash
+   CONFIG_FILE_PATH = 'your_input_file_name.yaml'
 
 ## Important Note on results 
 
